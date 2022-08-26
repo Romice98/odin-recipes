@@ -1,0 +1,26 @@
+*{
+    font-family: "Lucida Handwriting", sans-serif;
+}
+
+h1 {
+    font-size: 40px;
+    color: white;
+    background-color: green;
+}
+
+h3 {
+    color: blueviolet;
+}
+
+h4 {
+    color: #ad6be3;
+}
+
+.comment {
+    color: lightgrey;
+    font-size: 10px;
+}
+
+.recipe {
+    font-size: 26px;
+}
